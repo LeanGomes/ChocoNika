@@ -1,0 +1,7 @@
+function menu(){
+  $('p').slideDown('<p>Teste</p>');
+
+  }
+
+
+  
